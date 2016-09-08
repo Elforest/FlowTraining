@@ -4,10 +4,10 @@
 联系方式
 -------
 
-|----|----|
-| 姓名 | 钱琪晴 |
-| 邮箱 | qianqiqing@163.com |
-| github账号 | Elforest |
+----|----
+ 姓名 | 钱琪晴 
+ 邮箱 | qianqiqing@163.com 
+ github账号 | Elforest 
 
 
 微博：[Elforest][weibo_address]
